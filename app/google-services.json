@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "351938502334",
+    "firebase_url": "https://viewmovie-1c227-default-rtdb.firebaseio.com",
+    "project_id": "viewmovie-1c227",
+    "storage_bucket": "viewmovie-1c227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351938502334:android:2215e3df5a9ff07b4c48ef",
+        "android_client_info": {
+          "package_name": "com.example.movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCmlueIEPzGPbw_6mK9fuguiLwA7c_3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
